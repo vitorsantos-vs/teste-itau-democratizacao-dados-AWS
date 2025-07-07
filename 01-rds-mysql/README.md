@@ -10,7 +10,7 @@
 #
 ![image](https://github.com/user-attachments/assets/449e7330-c6ce-4951-ac19-07af9e71d3ff)
 
-## 2 Criação do Bucket S3.
+## 2 - Criação do Bucket S3.
 ### vitor-democratizacao
 - Pasta funcionarios
 - Pasta Cargos
@@ -18,7 +18,7 @@
 
 ![image](https://github.com/user-attachments/assets/f81dfc4b-7782-4c93-9981-6793cf7f64f7)
 
-### 3 Criação do Scripts SQL (Criação e População do RDS).
+### 3 - Criação do Scripts SQL (Criação e População do RDS).
 
 ## Criação do Banco e Tabela
 
