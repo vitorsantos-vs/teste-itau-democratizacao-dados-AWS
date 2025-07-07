@@ -50,12 +50,12 @@ QuickSight: A vitrine, onde os dados viram gráficos e relatórios.
 Este projeto foi dividido em etapas, e cada pasta representa uma peça do quebra-cabeça. Dentro de cada uma, você encontrará um README.md detalhado com o passo a passo e prints de tela.
 ```
 aws-democratizacao-dados/
-├── README.md (Você está aqui!)
-├── 00-infraestrutura-iam/  (A base: nossa rede e permissões)
-├── 01-rds-mysql/          (Onde criamos e populamos nosso banco de dados)
-├── 02-lambda-net-parquet/ (O código .NET que faz a mágica acontecer)
-├── 03-glue-crawler/       (O nosso detetive/bibliotecário de dados)
-├── 04-athena-queries/     (As consultas SQL para validar os dados)
+├── README.md                (Você está aqui!)
+├── 00-infraestrutura-iam/   (A base: nossa rede e permissões)
+├── 01-rds-mysql/            (Onde criamos e populamos nosso banco de dados)
+├── 02-lambda-net-parquet/   (O código .NET que faz a mágica acontecer)
+├── 03-glue-crawler/         (O nosso detetive/bibliotecário de dados)
+├── 04-athena-queries/       (As consultas SQL para validar os dados)
 ├── 05-quicksight-dashboard/ (Onde criamos o dashboard e automatizamos tudo)
-└── 06-eventbrige-lambda/ (Onde criação excução diária)
+└── 06-eventbrige-lambda/    (Onde criação excução diária)
 ```
