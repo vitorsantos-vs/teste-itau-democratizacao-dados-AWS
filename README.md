@@ -57,5 +57,5 @@ aws-democratizacao-dados/
 ├── 03-glue-crawler/       (O nosso detetive/bibliotecário de dados)
 ├── 04-athena-queries/     (As consultas SQL para validar os dados)
 ├── 05-quicksight-dashboard/ (Onde criamos o dashboard e automatizamos tudo)
-└── 06 06-eventbrige-lambda/ (Onde criação excução diária)
+└── 06-eventbrige-lambda/ (Onde criação excução diária)
 ```
